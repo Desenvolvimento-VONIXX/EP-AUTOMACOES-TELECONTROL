@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/bibliotecas-sankhya-padrao/repo-bibliotecasJava/SankhyaW-extensions.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/bibliotecas-sankhya-padrao/repo-bibliotecasJava/jape.jar" sourcepath="/JAPE"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/bibliotecas-sankhya-padrao/repo-bibliotecasJava/mge-modelcore.jar" sourcepath="/MGE-Modelcore-3.16.0"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/bibliotecas-sankhya-padrao/sanutil.jar" sourcepath="/SankhyaUtil"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/bibliotecas-sankhya-padrao/javax.ejb-api-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/bibliotecas-sankhya-padrao/repo-bibliotecasJava/org.json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/bibliotecas-sankhya-padrao/repo-bibliotecasJava/json-20140107.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/bibliotecas-sankhya-padrao/repo-bibliotecasJava/java-net-http-request-factory-1.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
